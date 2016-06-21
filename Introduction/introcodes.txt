@@ -1,0 +1,18 @@
+Here are some codes for starting using R programming language.
+
+When in R console
+
+Command for getting working directory
+
+>getwd()
+
+
+
+Install some package
+
+>install.packages("nameofpackage")
+
+Loading installed package
+
+>library(nameofpackage)
+

@@ -1,0 +1,32 @@
+---
+title: "Introduction"
+author: "Milos Adamovic"
+date: "Tuesday, June 21, 2016"
+output: html_document
+---
+
+# Header 1
+
+This is an R markdown document for testing.Markdown is a simple formatting syntax for authoring webpages...
+
+Use an asterisk mark to provide emphasis, such as *italics* or **bold**.
+
+Create lists with a dash, like this:
+
+- Item 1
+- Item 2
+- Item 3
+- etc.
+
+```
+Use back ticks to 
+create a block of code
+```
+
+You can even embed LaTeX equations:
+$\frac{2}{\pi}\sum^{n}_{i=1}x^{i}$
+
+You can also add footnotes, citations, and a bibliography. [^1]
+
+[^1]: Markdown is great!!!
+
